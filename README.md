@@ -1,8 +1,54 @@
-# Dashboard Project (Using Excel and Power BI)
-This repository contains a collection of projects focused on transforming unstructured data into clear insights and practical recommendations. The projects involve data cleaning, transformation, and dashboard creation using Power BI, Excel, and Power Query. Each project highlights how data can be structured and analyzed to support better understanding and decision-making. All projects include datasets, dashboards, and a summary of key insights. 
+\# Business Analytics Projects
 
-Feel free to connect with me:
 
-LinkedIn: [https://www.linkedin.com/in/adhisandira](https://www.linkedin.com/in/adhisandira)
+
+A collection of business analytics projects focused on transforming data into actionable insights and practical business recommendations.
+
+
+
+The projects cover data cleaning, transformation, exploratory analysis, visualization, and business analysis using Excel, Power Query, Power BI, and SQL.
+
+
+
+\## Projects
+
+
+
+| Project | Tools | Focus |
+
+|---|---|---|
+
+| \[Coffee Sales Analysis](./coffee-sales-analysis/) | Excel | Sales performance, product trends, and customer purchasing patterns |
+
+| \[E-commerce Sales Analysis](./e-commerce\_sales\_analysis/) | Excel, Power Query | E-commerce sales performance and profitability analysis |
+
+| \[Perfume Sales Analysis](./perfume-sales-analysis/) | Power BI, Power Query | Sales performance, product analysis, and interactive dashboard |
+
+| \[Uber Trip Analysis](./uber-trip-analysis/) | SQL | Trip patterns, demand trends, trip efficiency, and business recommendations |
+
+
+
+\## What I Work With
+
+
+
+\- Excel
+
+\- Power Query
+
+\- Power BI
+
+\- SQL
+
+
+
+\## Contact
+
+
+
+LinkedIn: https://www.linkedin.com/in/adhisandira/
+
+
 
 Email: andiraadhis@gmail.com
+
