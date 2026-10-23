@@ -2,7 +2,7 @@
 
 A collection of business analytics projects focused on transforming data into actionable insights and practical business recommendations.
 
-The projects cover data cleaning, transformation, exploratory analysis, visualization, and business analysis using Excel, Power Query, Power BI, and SQL.
+The projects cover data cleaning, transformation, exploratory analysis, visualization, and business analysis using Excel, Power Query, Power BI, SQL, and Python.
 
 ## Projects
 
@@ -12,6 +12,7 @@ The projects cover data cleaning, transformation, exploratory analysis, visualiz
 | [E-commerce Sales Analysis](./e-commerce_sales_analysis/) | Power BI | E-commerce sales performance and profitability analysis |
 | [Perfume Sales Analysis](./perfume-sales-analysis/) | Excel, Power BI | Sales performance, product analysis, and interactive dashboard |
 | [Uber Trip Analysis](./uber-trip-analysis/) | Google Sheets, SQL (Google BigQuery) | Trip patterns, demand trends, trip efficiency, and business recommendations |
+| [Retail Sales Performance Analysis](./Retail-Sales-Performance-Analysis/) | Python (Pandas, Matplotlib) | Retail sales performance, brand contribution, product demand, regional distribution, and customer purchasing behavior |
 
 ## What I Work With
 
@@ -19,7 +20,7 @@ The projects cover data cleaning, transformation, exploratory analysis, visualiz
 - Google Sheets
 - Power BI
 - SQL
-
+- Python
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/adhisandira/
